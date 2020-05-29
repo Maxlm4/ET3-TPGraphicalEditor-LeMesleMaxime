@@ -1,6 +1,7 @@
 # TPNoteIHM
 
 J'ai répondu aux cinq questions du TP. J'ai conçu l'interface graphique sur scene builder. J'ai pris en compte la gestion des figures qui débordent du canevas et ai choisi comme feedback lors de la sélection d'un objet un contour bleuté plus épais pour les ellipses et rectangles, et un trait plus épais pour la ligne.
+Je précise que les deux comptes apparaissant comme contributeurs m'appartiennent. Je ne sais pas pourquoi le compte StudioHarfang s'est réveillé tout seul.
 
 Réponse à la question bonus;
 Expliquez comment réaliser une architecture MVC de cette application. Quels sont vos Modèles, Vues et Controlleurs ? Expliquez en détail comment vous structureriez l’application? (L’implémentation du code n’est pas demandée).
