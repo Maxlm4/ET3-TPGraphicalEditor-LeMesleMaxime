@@ -7,7 +7,7 @@ Réponse à la question bonus;
 Expliquez comment réaliser une architecture MVC de cette application. Quels sont vos Modèles, Vues et Controlleurs ? Expliquez en détail comment vous structureriez l’application? (L’implémentation du code n’est pas demandée).
 
 Les controlleurs sont:
-\n-les radio Button (select/move, Ellipse, Rectangle, Line)
+-les radio Button (select/move, Ellipse, Rectangle, Line)
 -les buttons (delete, clone)
 -le colorPicker
 -le canvas lui-même pour ce qui est des sélections et drag and drop
