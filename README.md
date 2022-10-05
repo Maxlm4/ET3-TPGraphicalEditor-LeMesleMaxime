@@ -1,5 +1,8 @@
 # TPNoteIHM
 
+This work is a school exercice about creating a graphical interface using Java and SceneBuilder.
+
+________________________________________________________________________________________________________________________________________________________________
 J'ai répondu aux cinq questions du TP. J'ai conçu l'interface graphique sur scene builder. J'ai pris en compte la gestion des figures qui débordent du canevas et ai choisi comme feedback lors de la sélection d'un objet un contour bleuté plus épais pour les ellipses et rectangles, et un trait plus épais pour la ligne.
 Je précise que les deux comptes apparaissant comme contributeurs m'appartiennent. Je ne sais pas pourquoi le compte StudioHarfang s'est réveillé tout seul.
 
@@ -21,3 +24,4 @@ Chaque figure aurait une classe qui la représenterait, gérant son affichage en
 Les modèles sont:
 -la liste des figures et de leurs données
 Une classe modèle stockerait les données des figures et des widgets.
+________________________________________________________________________________________________________________________________________________________________
