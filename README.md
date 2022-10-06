@@ -1,5 +1,9 @@
 # TPNoteIHM
 
+Ceci est un exercice de création d'interface graphique en utilisant Java et SceneBuilder.
+
+====================================================================
+
 This work is a school exercice about creating a graphical interface using Java and SceneBuilder.
 
 ________________________________________________________________________________________________________________________________________________________________
